@@ -51,59 +51,59 @@ Typography varies slightly by operating system because the template does not dow
 
 ## Screenshots
 
-Every page is shown below, followed by the mobile reading layout. These are captures of the working static site.
+Every page is shown below, followed by the mobile reading layout. These are captures of the working static site. Click any screenshot to open the original image. Desktop captures are 1280 pixels wide; the mobile capture is 390 pixels wide.
 
 ### Home · 首页
 
 Publication introduction, featured essays, and recent writing.
 
-![Margin & Measure homepage](docs/screenshots/home.png)
+[![Margin & Measure homepage](docs/screenshots/home.jpg)](docs/screenshots/home.jpg?raw=true)
 
 ### Articles · 文章归档
 
 Topic filters, full-text filtering, and article summaries.
 
-![Article archive](docs/screenshots/archive.png)
+[![Article archive](docs/screenshots/archive.jpg)](docs/screenshots/archive.jpg?raw=true)
 
 ### Article · 文章详情
 
 Title, subtitle, byline, body copy, and a separate table of contents.
 
-![Article title and reading layout](docs/screenshots/article-header.png)
+[![Article title and reading layout](docs/screenshots/article-header.jpg)](docs/screenshots/article-header.jpg?raw=true)
 
 The reading layout also supports figures, tables, and code blocks.
 
-![Article figure and contents navigation](docs/screenshots/article.png)
+[![Article figure and contents navigation](docs/screenshots/article.jpg)](docs/screenshots/article.jpg?raw=true)
 
 ### Notes · 短札记
 
 A date-led layout for shorter entries.
 
-![Short notes](docs/screenshots/notes.png)
+[![Short notes](docs/screenshots/notes.jpg)](docs/screenshots/notes.jpg?raw=true)
 
 ### About · 关于
 
 Publication profile, areas of focus, and editorial principles.
 
-![About the fictional publication](docs/screenshots/about.png)
+[![About the fictional publication](docs/screenshots/about.jpg)](docs/screenshots/about.jpg?raw=true)
 
 ### Search · 搜索
 
 Full-text results with query highlighting and scope filters.
 
-![Search results](docs/screenshots/search.png)
+[![Search results](docs/screenshots/search.jpg)](docs/screenshots/search.jpg?raw=true)
 
 ### 404 · 未找到页面
 
 A dedicated recovery page with a route back to the archive.
 
-![Page not found](docs/screenshots/not-found.png)
+[![Page not found](docs/screenshots/not-found.jpg)](docs/screenshots/not-found.jpg?raw=true)
 
 ### Mobile · 移动端正文
 
 Single-column reading, a collapsible table of contents, and a compact navigation menu.
 
-<img src="docs/screenshots/mobile.png" alt="Mobile article layout" width="390" />
+<a href="docs/screenshots/mobile.jpg?raw=true"><img src="docs/screenshots/mobile.jpg" alt="Mobile article layout" width="390" /></a>
 
 ## Creation notes
 
