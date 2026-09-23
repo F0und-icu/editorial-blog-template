@@ -1,0 +1,87 @@
+{
+  "the-price-of-time": {
+    "title": "The price of time.",
+    "subtitle": "Why the same cash flow can carry a different price when interest rates change.",
+    "excerpt": "A worked example of bond prices, duration, and the distinction between receiving your money back and knowing what it can buy.",
+    "date": "2026-06-18",
+    "category": "Markets & Macro",
+    "tags": [
+      "interest rates",
+      "duration",
+      "bonds"
+    ],
+    "type": "Essay",
+    "artwork": "/images/editorial/rates.svg",
+    "featuredOrder": 1
+  },
+  "cash-flow-is-a-conversation": {
+    "title": "Cash flow is a conversation.",
+    "subtitle": "Reading the distance between reported profit and money available to owners.",
+    "excerpt": "A fictional business illustrates working capital, capital expenditure, and why a rising earnings number may tell only part of the story.",
+    "date": "2026-06-11",
+    "category": "Business Fundamentals",
+    "tags": [
+      "cash flow",
+      "working capital",
+      "accounting"
+    ],
+    "type": "Essay",
+    "artwork": "/images/editorial/cashflow.svg",
+    "featuredOrder": 2
+  },
+  "diversification-beyond-tickers": {
+    "title": "Diversification beyond tickers.",
+    "subtitle": "Counting holdings is easy. Understanding shared exposures takes more work.",
+    "excerpt": "A portfolio can contain many names and still depend on one economic outcome. A framework for looking beneath the labels.",
+    "date": "2026-06-04",
+    "category": "Portfolio Thinking",
+    "tags": [
+      "diversification",
+      "risk",
+      "correlation"
+    ],
+    "type": "Essay",
+    "artwork": "/images/editorial/portfolio.svg",
+    "featuredOrder": 3
+  },
+  "inflation-and-the-unit-of-account": {
+    "title": "The unit that quietly changes.",
+    "subtitle": "Why nominal gains and real purchasing power tell different stories.",
+    "excerpt": "A simple inflation adjustment shows why the number on a statement is only the beginning of a long-term financial comparison.",
+    "date": "2026-05-28",
+    "category": "Markets & Macro",
+    "tags": [
+      "inflation",
+      "purchasing power",
+      "returns"
+    ],
+    "type": "Essay",
+    "artwork": "/images/editorial/rates.svg"
+  },
+  "a-yield-is-not-a-total-return": {
+    "title": "A yield is not a total return.",
+    "subtitle": "A short note on what an income percentage leaves out.",
+    "excerpt": "Income is one component of an investment result. Price changes, reinvestment, fees, and taxes still need a place in the calculation.",
+    "date": "2026-06-21",
+    "category": "Portfolio Thinking",
+    "tags": [
+      "yield",
+      "returns"
+    ],
+    "type": "Journal",
+    "artwork": "/images/editorial/portfolio.svg"
+  },
+  "the-best-spreadsheet-has-a-notes-column": {
+    "title": "The best spreadsheet has a notes column.",
+    "subtitle": "Make the assumptions as readable as the formulas.",
+    "excerpt": "A small documentation habit that makes financial models easier to challenge, hand over, and revisit.",
+    "date": "2026-06-14",
+    "category": "Business Fundamentals",
+    "tags": [
+      "models",
+      "assumptions"
+    ],
+    "type": "Journal",
+    "artwork": "/images/editorial/cashflow.svg"
+  }
+}

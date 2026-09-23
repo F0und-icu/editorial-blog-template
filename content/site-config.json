@@ -1,0 +1,99 @@
+{
+  "site": {
+    "name": "Margin & Measure",
+    "shortName": "MM",
+    "mark": "M/M",
+    "year": "2026",
+    "title": "Margin & Measure \u2014 Notes on money and markets",
+    "description": "Independent essays on money, markets, and the decisions that compound.",
+    "contactEmail": "",
+    "githubUrl": ""
+  },
+  "navigation": [
+    {
+      "label": "Articles",
+      "href": "/articles"
+    },
+    {
+      "label": "Notes",
+      "href": "/notes"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    }
+  ],
+  "hero": {
+    "eyebrow": "An independent financial journal",
+    "headline": "A clearer view of",
+    "emphasis": "money and markets.",
+    "deck": "Essays on capital, risk, and the decisions that compound. Written slowly. Read thoughtfully.",
+    "primaryCta": {
+      "label": "Explore the archive",
+      "href": "/articles"
+    },
+    "image": {
+      "src": "/images/editorial/architecture.png",
+      "alt": "Curved concrete staircase in soft natural light",
+      "caption": "Perspective / Structure / Time"
+    }
+  },
+  "archive": {
+    "eyebrow": "The essay archive",
+    "headline": "Ideas worth holding.",
+    "description": "Interest rates, business fundamentals, and the discipline of making decisions under uncertainty.",
+    "selectedTitle": "Selected essays",
+    "latestTitle": "Recent writing"
+  },
+  "journal": {
+    "eyebrow": "A working notebook",
+    "headline": "Notes in the margin.",
+    "description": "Brief observations on financial language, incentives, and everyday decisions."
+  },
+  "article": {
+    "backLabel": "Back to archive",
+    "planLabel": "On this page",
+    "relatedHeadline": "Keep reading"
+  },
+  "about": {
+    "eyebrow": "About the journal",
+    "headline": "Good questions.\nClearer decisions.",
+    "deck": "A small publication about how money moves, what businesses earn, and why risk deserves a precise definition.",
+    "summary": [
+      "Margin & Measure is a fictional publication created to demonstrate this editorial blog template. Its essays explain durable financial concepts through transparent assumptions, worked examples, and questions a reader can reuse.",
+      "The sample articles are original educational writing. Numerical examples are hypothetical, not live market data, investment recommendations, or a record of financial performance."
+    ],
+    "principles": [
+      {
+        "title": "Show the assumptions.",
+        "description": "State the time horizon, units, and constraints before presenting a number."
+      },
+      {
+        "title": "Follow the cash.",
+        "description": "Look beyond a headline metric to the economics underneath it."
+      },
+      {
+        "title": "Leave room for doubt.",
+        "description": "Separate what a model says from what the world might do."
+      }
+    ],
+    "focus": [
+      {
+        "title": "Markets & macro",
+        "description": "Interest rates, inflation, and the price of time."
+      },
+      {
+        "title": "Business fundamentals",
+        "description": "Cash flows, working capital, and the quality of earnings."
+      },
+      {
+        "title": "Portfolio thinking",
+        "description": "Diversification, rebalancing, and the cost of uncertainty."
+      }
+    ]
+  },
+  "footer": {
+    "motto": "Think in years. Read with care.",
+    "copyright": "Margin & Measure"
+  }
+}
