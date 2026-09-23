@@ -1,0 +1,13 @@
+{
+  "my-first-essay": {
+    "title": "My first essay.",
+    "subtitle": "A clear sentence explaining what the reader will learn.",
+    "excerpt": "A short summary for the homepage, archive, and search results.",
+    "date": "2026-06-25",
+    "category": "Markets & Macro",
+    "tags": ["bonds", "interest rates"],
+    "type": "Essay",
+    "featuredOrder": 1,
+    "artwork": "/images/editorial/rates.svg"
+  }
+}

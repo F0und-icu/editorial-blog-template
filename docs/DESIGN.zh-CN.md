@@ -20,6 +20,8 @@
 
 ## 使用与定制
 
+完整的逐步操作、图片路径和页面配置对应表见 [写作与定制指南](WRITING.zh-CN.md)。
+
 1. 点击 GitHub 的 **Use this template** 创建自己的仓库。
 2. 使用 Node.js 22，运行 `npm ci` 和 `npm run dev`。
 3. 修改 `content/site-config.json` 设置站名、文案与联系信息。

@@ -4,7 +4,7 @@
 
 Built with Next.js 16, React 19, TypeScript, and Markdown. The included fictional publication, **Margin & Measure**, demonstrates the theme with four complete English finance essays and two short notes.
 
-![Margin & Measure homepage](docs/screenshots/home.png)
+**Guides:** [写作与定制指南 / Writing & customization](docs/WRITING.zh-CN.md) · [Design notes](docs/DESIGN.md) · [中文设计说明](docs/DESIGN.zh-CN.md)
 
 ## Use this template
 
@@ -51,21 +51,59 @@ Typography varies slightly by operating system because the template does not dow
 
 ## Screenshots
 
-### Article and reading layout
+Every page is shown below, followed by the mobile reading layout. These are captures of the working static site.
 
-![A finance essay with a hypothetical bond-price chart and table of contents](docs/screenshots/article.png)
+### Home · 首页
 
-<details>
-<summary>Archive, Notes, About, Search, and mobile views</summary>
+Publication introduction, featured essays, and recent writing.
+
+![Margin & Measure homepage](docs/screenshots/home.png)
+
+### Articles · 文章归档
+
+Topic filters, full-text filtering, and article summaries.
 
 ![Article archive](docs/screenshots/archive.png)
+
+### Article · 文章详情
+
+Title, subtitle, byline, body copy, and a separate table of contents.
+
+![Article title and reading layout](docs/screenshots/article-header.png)
+
+The reading layout also supports figures, tables, and code blocks.
+
+![Article figure and contents navigation](docs/screenshots/article.png)
+
+### Notes · 短札记
+
+A date-led layout for shorter entries.
+
 ![Short notes](docs/screenshots/notes.png)
+
+### About · 关于
+
+Publication profile, areas of focus, and editorial principles.
+
 ![About the fictional publication](docs/screenshots/about.png)
+
+### Search · 搜索
+
+Full-text results with query highlighting and scope filters.
+
 ![Search results](docs/screenshots/search.png)
 
-<img src="docs/screenshots/mobile.png" alt="Mobile article layout" width="390" />
+### 404 · 未找到页面
 
-</details>
+A dedicated recovery page with a route back to the archive.
+
+![Page not found](docs/screenshots/not-found.png)
+
+### Mobile · 移动端正文
+
+Single-column reading, a collapsible table of contents, and a compact navigation menu.
+
+<img src="docs/screenshots/mobile.png" alt="Mobile article layout" width="390" />
 
 ## Creation notes
 
@@ -76,6 +114,8 @@ The English finance essays were written specifically for the template with AI as
 The architectural hero image was generated with AI during the original theme design. All finance graphics are editable SVGs built for this template. The three archive illustrations are decorative; the labeled article charts represent the calculations explained in their articles. Real browser screenshots document the implementation. No analytics or tracking service is included.
 
 ## Make it yours
+
+Read the **[写作与定制指南](docs/WRITING.zh-CN.md)** for a complete article walkthrough, image paths, field-to-page mappings, layout files, sorting rules, and troubleshooting. Copy the [Markdown starter](docs/examples/article.md) and merge the [metadata example](docs/examples/article-meta.json) to begin.
 
 | File | What to change |
 | --- | --- |
