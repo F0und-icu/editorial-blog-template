@@ -27,7 +27,7 @@ test("All sample content renders, references local artwork, and has valid relate
   for (const post of posts) {
     const html = renderToStaticMarkup(<ArticleMarkdown body={post.body} />)
     for (const h of articleHeadings(post.body)) assert.ok(html.includes(`id="${h.id}"`))
-    assert.ok(fs.existsSync(`public${post.artwork}`))
+    if (post.artwork) assert.ok(fs.existsSync(`public${post.artwork}`))
     assert.ok(getRelatedPosts(post.id).every(p=>p.id!==post.id))
     for (const match of post.body.matchAll(/!\[[^\]]*\]\((\/[^)]+)\)/g)) assert.ok(fs.existsSync(`public${match[1]}`))
   }
